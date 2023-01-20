@@ -1,0 +1,74 @@
+.nav-felix {
+    background-color: rgb(52, 148, 14);
+}
+
+.nav-text {
+    outline: none;
+    text-decoration: none;
+    color: rgb(247, 247, 250);
+    margin-left: 30%;
+}
+
+.nav-text:hover {
+    color: rgb(12, 38, 142);
+}
+
+body {
+    background-color: rgba(98, 255, 0, 0.734);
+    font-family: 'Happy Monkey', cursive;
+
+}
+
+.grattis-div {
+    text-align: center;
+    
+}
+
+.img-confetti {
+    width: 40%;
+    margin-top: 4%;
+}
+
+.img-dino {
+    margin-top: 30%;
+    width: 40%;
+}
+
+.aldreomsorg {
+    margin-top: 50%;
+    outline: none;
+    text-decoration: none;
+    color: rgb(0, 128, 73);
+}
+
+.aldreomsorg:hover {
+    color:#fff;
+}
+
+.p-tag {
+    margin-top: 50%;
+}
+
+.btn-outline-primary {
+    color: black;
+}
+
+.btn-outline-primary:hover {
+    background-color: rgb(13, 184, 45);
+}
+
+.trettio {
+    
+    margin-top: 30%;
+    width: 40%;
+}
+
+.rullstol {
+    outline: none;
+    text-decoration: none;
+    color: rgb(0, 128, 73);
+}
+
+.rullstol:hover {
+    color: #fff;
+}
